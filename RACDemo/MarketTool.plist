@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>找货</string>
+		<key>icon</key>
+		<string>market_find_goods</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>我的足迹</string>
+		<key>icon</key>
+		<string>market_footprint</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>市场导航</string>
+		<key>icon</key>
+		<string>market_navigation</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>收费标准</string>
+		<key>icon</key>
+		<string>market_charge_standard</string>
+	</dict>
+</array>
+</plist>
